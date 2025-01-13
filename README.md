@@ -18,7 +18,7 @@ To develop an interactive and dynamic financial analysis dashboard using Power B
 ## Visualizations
 The dashboard includes the following visuals:
 
-Geographic distribution of orders and profits.
-Monthly and yearly sales trends.
-Profit margin comparisons across segments and product lines.
-Discounts offered by different bands and their effects.
+-Geographic distribution of orders and profits.
+-Monthly and yearly sales trends.
+-Profit margin comparisons across segments and product lines.
+-Discounts offered by different bands and their effects.
