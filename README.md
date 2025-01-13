@@ -8,7 +8,17 @@ To develop an interactive and dynamic financial analysis dashboard using Power B
 ## Discount Insights: Evaluation of discount strategies and their impact on revenue.
 ## Top Performing Products: Identification of the top three products contributing to sales.
 ## Data Highlights 
-Sales Growth: Current sales increased by 249.46% compared to the previous year.
-Profit Improvement: Total profits grew by over 229%, with detailed breakdowns available by region and segment.
-Segment Analysis: Highest profit margins observed in mid-market and government sectors.
-Product Insights: VTT and Paseo emerged as the top-performing product categories.
+## Sales Growth: Current sales increased by 249.46% compared to the previous year.
+## Profit Improvement: Total profits grew by over 229%, with detailed breakdowns available by region and segment.
+## Segment Analysis: Highest profit margins observed in mid-market and government sectors.
+## Product Insights: VTT and Paseo emerged as the top-performing product categories.
+## Technologies Used
+## Power BI: For creating interactive and dynamic dashboards.
+## Microsoft Excel: For preliminary data handling and cleaning.
+## Visualizations
+The dashboard includes the following visuals:
+
+Geographic distribution of orders and profits.
+Monthly and yearly sales trends.
+Profit margin comparisons across segments and product lines.
+Discounts offered by different bands and their effects.
