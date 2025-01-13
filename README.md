@@ -1,3 +1,9 @@
 # Data-Analysis-Dashboard
 ## Project Objective
 To develop an interactive and dynamic financial analysis dashboard using Power BI, enabling stakeholders to evaluate sales performance, profit margins, and discount strategies across regions, segments, and product categories, thereby supporting data-driven decision-making and identifying growth opportunities.
+## Key Features
+# Sales Analysis: Comparison of current year sales with the previous year, highlighting growth trends.
+# Profit and Margin Analysis: Breakdown of profit and profit margins by country, segment, and product categories.
+# Order Trends: Visual representation of order distribution across geographies.
+# Discount Insights: Evaluation of discount strategies and their impact on revenue.
+# Top Performing Products: Identification of the top three products contributing to sales.
